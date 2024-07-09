@@ -1,0 +1,2 @@
+- Como rodar o projeto?
+- Como gerar uma migração do banco de dados?
